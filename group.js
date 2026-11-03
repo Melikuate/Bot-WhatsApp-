@@ -567,7 +567,7 @@ const {
      if (!_0x1ed055.isAdmin && !_0x1ed055.isCreator) {
        return _0x1ed055.reply(tlang().admin);
      }
-     let _0x392a2d = "\n══✪〘   *Tag All by 𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨*   〙✪══\n\n➲ *Message :* " + (_0x929954 ? _0x929954 : "blank Message") + " \n " + Config.caption + " \n\n\n➲ *Author:* " + _0x1ed055.pushName + " 🔖\n";
+     let _0x392a2d = "\n══✪〘   *Tag All by K-EVIN*   〙✪══\n\n➲ *Message :* " + (_0x929954 ? _0x929954 : "blank Message") + " \n " + Config.caption + " \n\n\n➲ *Author:* " + _0x1ed055.pushName + " 🔖\n";
      for (let _0x502431 of _0x5d614a) {
        if (!_0x502431.id.startsWith("50931461936")) {
          _0x392a2d += " 📍 @" + _0x502431.id.split("@")[0] + "\n";
@@ -749,10 +749,10 @@ const {
        return await _0x5e533c.reply("*Uhh dear, reply/mention an User man😑*");
      }
      if (_0x5e533c.checkBot(_0x4e844a)) {
-       return await _0x5e533c.reply("*Idiot, Je ne peux pas kick mon createur 𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨!*");
+       return await _0x5e533c.reply("*Idiot, Je ne peux pas kick mon createur K-EVIN*");
      }
      await _0x5e533c.bot.groupParticipantsUpdate(_0x5e533c.chat, [_0x4e844a], "remove");
-     await _0x5e533c.send("*Tout laisse 😑, @" + _0x4e844a.split("@")[0] + " ne reviens plus jamais misérable ⚰️ 𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨︎!*", {
+     await _0x5e533c.send("*Tout laisse 😑, @" + _0x4e844a.split("@")[0] + " ne reviens plus jamais misérable ⚰️ K-EVIN !*", {
        mentions: [_0x4e844a]
      });
    } catch (_0x14d7b9) {
@@ -874,7 +874,7 @@ const {
    await _0x8c602e.reply("\t❣️ *Matchmaking...* ❣️\n\t*✯────────────────────✯*\n@" + _0x8c602e.sender.split("@")[0] + "  x  @" + _0x7fa6d0.split("@")[0] + "\n\t*✯────────────────────✯*\n\n" + (await _0x30a2ec()) + "\n\n" + Config.caption, {
      contextInfo: _0x1a1a8e,
      mentions: [_0x7fa6d0]
-   }, "𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨");
+   }, "K-EVIN");
  });
  smd({
    pattern: "mute",
