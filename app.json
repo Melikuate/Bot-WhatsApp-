@@ -1,15 +1,15 @@
 {
-    "name": "DRK-RAGNA-1.0",
-    "description": "Simple WhatsApp Bot🤖 For the  𝙎-𝙏𝞢𝞜",
+    "name": "Ṣαchα さ ",
+    "description": "Simple WhatsApp Bot🤖 For the  K-EVIN",
     "logo": "https://endpoint.web.id/server/file/I8dkDXm1nJDtOI75.jpg",
-    "keywords": ["Dark", "STEN", "DRK-RAGNA-1.0"],
+    "keywords": ["Dark", "K-EVIN", "V-ENOM"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": " 𝙎-𝙏𝞢𝞜",
+        "value": " K-EVIN",
         "required": true
       },
   
@@ -40,7 +40,7 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "*DR┘𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨𖤐*"
+        "value": "K-EVIN"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -115,12 +115,12 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "*DR┘𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨𖤐*",
+        "value": "K-EVIN",
         "required": false
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "𝐃𝐑𝐊_𝐒𝐓_𝐓𝐞𝐜𝐡",
+        "value": "K-EVIN",
         "required": false
       }  
   },
